@@ -1,0 +1,15 @@
+{
+  "name": "fruitbasket",
+  "version": "1.0.0",
+  "description": "Fruitbasket app for job application",
+  "Main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node app.js"
+  },
+  "author": "Niel Roos",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
