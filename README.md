@@ -1,2 +1,2 @@
-# fruitBasket
-Fruitbasket NodeJS app for interview application
+# Fruit Basket
+Fruit basket NodeJS app for interview application
